@@ -1,3 +1,5 @@
 .vs/
 FileTransfer-mvc/wwwroot
 FileTransfer-mvc/obj
+FileTransfer-mvc/bin
+FileTransfer-mvc/Migrations
